@@ -13,6 +13,7 @@ public abstract class Employee {
     private String lastName;
     private int monthlyIncome;
     private int nbHoursPerWeek;
+    // random comment for git check
 
     public Employee(String fullName, int monthlyIncome){
         setMonthlyIncome(monthlyIncome);
